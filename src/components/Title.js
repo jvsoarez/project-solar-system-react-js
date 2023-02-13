@@ -1,7 +1,7 @@
 import React from 'react';
 import propTypes from 'prop-types';
 
-class SolarSystem extends React.Component {
+class Title extends React.Component {
   render() {
     const { headline } = this.props;
     return (
@@ -10,8 +10,8 @@ class SolarSystem extends React.Component {
   }
 }
 
-SolarSystem.propTypes = {
+Title.propTypes = {
   headline: propTypes.string,
 }.isRequired;
 
-export default SolarSystem;
+export default Title;

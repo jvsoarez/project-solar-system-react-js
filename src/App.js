@@ -6,11 +6,11 @@ import SolarSystem from './components/SolarSystem';
 class App extends React.Component {
   render() {
     return (
-      <>
+      <main className="bg-[url('./images/background.png')]">
         <Header />
         <SolarSystem />
         <Missions />
-      </>
+      </main>
     );
   }
 }

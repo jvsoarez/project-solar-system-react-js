@@ -29,7 +29,7 @@
 
 **4. Render the Title component inside the Solar System component** ✔️
 
-**5. Crie um componente chamado PlanetCard** ✔️
+**5. Create a component called PlanetCard** ✔️
 
 **6. Render a list with the planets of the Solar System** ✔️
 
